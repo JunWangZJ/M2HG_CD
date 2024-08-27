@@ -14,7 +14,7 @@ If you use this code for your research, please cite our paper. Thank you!
 @ARTICLE{**, 
   author={Jun Wang, Fei Zeng, Sanku Niu, Jun Zheng, Xiaoliang Jiang},  
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
-  title={SAR Image Change Detection via Heterogeneous Graph with Multi-order and Multi-level Connections(under review)},   
+  title={SAR Image Change Detection via Heterogeneous Graph with Multi-order and Multi-level Connections},   
   year={2024}.}  
   
 ## Running
